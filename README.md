@@ -1,0 +1,2 @@
+- [gist](https://gist.github.com/kagebunsher/3104405ade2840724154384f01c70163)
+- [blog](https://kagebunsher.com)
